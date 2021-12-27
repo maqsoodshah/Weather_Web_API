@@ -8,7 +8,7 @@ This project is intended to help familiarize myself with web development with Py
 This project is currently in development. Future updates wil include clickable tiles for time, news, etc.
 
 #### Example:   
-![Image description](https://github.com/jkaethee/Flask-Weather-App/blob/master/images/weather%20app.PNG)
+![Image description](https://github.com/maqsoodshah/Weather_Web_API/blob/master/images/weather_app.PNG)
 
 ## Installation and Setup Instructions
 
@@ -31,4 +31,5 @@ Clone this repository. You will need `python`, `virtualenv`, and `virtualenvwrap
 `flask run` 
 
 or to run on specific host/port
+
 `flask run -h 1.1.1.1 -p 1111` 
