@@ -8,7 +8,7 @@ This project is intended to learn about [openweathermap.org](https://openweather
 This project is currently in development. Future updates wil include clickable tiles for time, news, etc.
 
 #### Example:   
-![Image description](https://github.com/maqsoodshah/Weather_Web_API/blob/master/images/weather_app.PNG)
+![Image description](https://github.com/maqsoodshah/Weather_Web_API/blob/master/images/weather_app_screenshot.PNG)
 
 ## Installation and Setup Instructions
 
