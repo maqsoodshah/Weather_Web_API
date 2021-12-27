@@ -33,3 +33,5 @@ Clone this repository. You will need `python`, `virtualenv`, and `virtualenvwrap
 or to run on specific host/port
 
 `flask run -h 1.1.1.1 -p 1111` 
+
+##### *Note*: please use your own created api key at openweathermap
